@@ -22,7 +22,16 @@ const Guide = () => {
           </p>
         </div>
       </div>
-      Guide
+
+      <div className="flexCenter max-container relative w-full ">
+        <Image
+          src="/boat.png"
+          alt="boat"
+          width={1440}
+          height={580}
+          className="w-full object-cover object-center 2xl:rounded-5xl"
+        />
+      </div>
     </section>
   );
 };
