@@ -1,0 +1,7 @@
+#deep-access-container {
+  position: relative;
+  background: blue;
+  padding: 2rem;
+  height: 100vh;
+  z-index: 1000;
+}
